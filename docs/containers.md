@@ -1,9 +1,8 @@
 | container | version | description |
 |-----------|---------|-------------|
-| [ansible](https://gitlab.com/pl.rachuna-net/containers/ansible) | ![](https://gitlab.com/pl.rachuna-net/containers/ansible/-/badges/release.svg) | ansible for Docker containers |
-| [consul](https://gitlab.com/pl.rachuna-net/containers/consul) | ![](https://gitlab.com/pl.rachuna-net/containers/consul/-/badges/release.svg) | consul for Docker containers |
+| [ansible](https://gitlab.com/pl.rachuna-net/containers/ansible) | ![](https://gitlab.com/pl.rachuna-net/containers/ansible/-/badges/release.svg) | Obraz Dockerowy z Ansible i Molecule. |
 | [mkdocs](https://gitlab.com/pl.rachuna-net/containers/mkdocs) | ![](https://gitlab.com/pl.rachuna-net/containers/mkdocs/-/badges/release.svg) | Obraz Dockerowy z MkDocs. |
-| [packer](https://gitlab.com/pl.rachuna-net/containers/packer) | ![](https://gitlab.com/pl.rachuna-net/containers/packer/-/badges/release.svg) | packer for Docker containers |
+| [packer](https://gitlab.com/pl.rachuna-net/containers/packer) | ![](https://gitlab.com/pl.rachuna-net/containers/packer/-/badges/release.svg) | Obraz Dockerowy z Packer. |
 | [python](https://gitlab.com/pl.rachuna-net/containers/python) | ![](https://gitlab.com/pl.rachuna-net/containers/python/-/badges/release.svg) | Obraz Dockerowy z Python. |
 | [semantic-release](https://gitlab.com/pl.rachuna-net/containers/semantic-release) | ![](https://gitlab.com/pl.rachuna-net/containers/semantic-release/-/badges/release.svg) | Obraz Dockerowy z narzędziem Semantic-Release. |
 | [sonar-scanner](https://gitlab.com/pl.rachuna-net/containers/sonar-scanner) | ![](https://gitlab.com/pl.rachuna-net/containers/sonar-scanner/-/badges/release.svg) | Obraz Dockerowy z narzędziem Sonar Scanner do analizy kodu źródłowego. |
